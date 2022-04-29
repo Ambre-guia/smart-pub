@@ -12,6 +12,17 @@
   margin-bottom: 0;
 }
 
+#gif_scroll {
+  text-align: center;
+  position: inherit;
+  width: 150px;
+  height: auto;
+  margin-top: -278px;
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .u-section-1 .u-group-1 {
   margin-top: -400px;
   margin-bottom: 60px;
